@@ -1,4 +1,5 @@
 央视频道,#genre#
 卫视频道,#genre#
 其他频道,#genre#
-2026-02-15更新,#genre#
+河北影视剧,http://121.19.134.204:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-02-16更新,#genre#
